@@ -122,6 +122,33 @@ minecraft/fast:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/build
 .PHONY : minecraft/fast
 
+Block/Chunk.obj: Block/Chunk.cpp.obj
+
+.PHONY : Block/Chunk.obj
+
+# target to build an object file
+Block/Chunk.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj
+.PHONY : Block/Chunk.cpp.obj
+
+Block/Chunk.i: Block/Chunk.cpp.i
+
+.PHONY : Block/Chunk.i
+
+# target to preprocess a source file
+Block/Chunk.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.i
+.PHONY : Block/Chunk.cpp.i
+
+Block/Chunk.s: Block/Chunk.cpp.s
+
+.PHONY : Block/Chunk.s
+
+# target to generate assembly for a file
+Block/Chunk.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.s
+.PHONY : Block/Chunk.cpp.s
+
 World/World.obj: World/World.cpp.obj
 
 .PHONY : World/World.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... edit_cache
 	@echo ... minecraft
 	@echo ... rebuild_cache
+	@echo ... Block/Chunk.obj
+	@echo ... Block/Chunk.i
+	@echo ... Block/Chunk.s
 	@echo ... World/World.obj
 	@echo ... World/World.i
 	@echo ... World/World.s

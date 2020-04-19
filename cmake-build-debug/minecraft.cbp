@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/c++/minecraft/Block/Chunk.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Block/Chunk.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>

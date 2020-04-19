@@ -22,7 +22,9 @@ add_executable(minecraft
         World/World.cpp
         World/World.h
         GL/gl_imp.h
-        defination.h)
+        defination.h
+        Block/Chunk.cpp
+        Block/Chunk.h)
 target_link_libraries(minecraft
         SDL2
         SDL2main
