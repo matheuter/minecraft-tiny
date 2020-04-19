@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="minecraft" targetName="minecraft" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddeb4542-c510-499c-b2c7-5cca1542f7ae" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ahN5UQ6orU9I3y1PPJTTOjjnL2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\c++\minecraft\World" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="minecraft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="minecraft" TARGET_NAME="minecraft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="minecraft" RUN_TARGET_NAME="minecraft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddeb4542-c510-499c-b2c7-5cca1542f7ae" name="默认更改列表" comment="" />
+      <created>1587183682616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587183682616</updated>
+      <workItem from="1587183685199" duration="4090000" />
+      <workItem from="1587286752095" duration="5235000" />
+      <workItem from="1587292386321" duration="464000" />
+      <workItem from="1587293305289" duration="1177000" />
+      <workItem from="1587299818553" duration="6100000" />
+      <workItem from="1587313186455" duration="2369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1587315526312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587315526312" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587292307066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587292307066" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587292307065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587292307065" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587292307065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587292307065" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587292307065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587292307065" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1587315160482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587315160482" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587288254411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587288254411" />
+  </component>
+</project>
