@@ -3,6 +3,9 @@
 #include "../GL/gl_imp.h"
 #include "../Block/Chunk.h"
 #include <map>
+#include <queue>
+#include <list>
+class Block;
 class World
 {
 public:
@@ -11,8 +14,8 @@ public:
 			return true;
 		}
 	};
-
-	using ChunkMap = std::map<glm::vec3, Chunk *, chunk_less>;
+	using BlockQueue = std::queue<Block*,std::list<Block*>>;
+	using ChunkMap   = std::map<glm::vec3, Chunk *, chunk_less>;
 	using const_vec3 = const glm::vec3;
 public:
 	World() = default;
@@ -26,8 +29,8 @@ public:
 	Chunk *getCurrentChunk();
 	void setCamera(const_vec3 &eye, const_vec3 &look, const_vec3 &up);
 	void updateWorld();
-
 private:
 	ChunkMap m_chunk;
+	BlockQueue m_blockQueue;
 };
 #endif //MINECRAFT_WORLD_H
