@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "F:/c++/minecraft/Block/Block.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Block.cpp.obj"
   "F:/c++/minecraft/Block/Chunk.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj"
   "F:/c++/minecraft/World/World.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj"
   "F:/c++/minecraft/main.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/main.cpp.obj"
@@ -14,6 +15,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "D:/thirdlibary/SDL/include"
   "D:/thirdlibary/glm/include"
+  "D:/thirdlibary/glew/include"
   )
 
 # Targets to which this target links.

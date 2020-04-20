@@ -1,1 +1,1 @@
--ID:/thirdlibary/SDL/include -ID:/thirdlibary/glm/include 
+-ID:/thirdlibary/SDL/include -ID:/thirdlibary/glm/include -ID:/thirdlibary/glew/include 

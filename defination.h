@@ -22,7 +22,6 @@ namespace minecraft
 	constexpr GLint BLOCK_TEXTURE_WIDHT = 16;
 	constexpr GLint BLOCK_TEXTURE_HEIGHT = 16;
 
-
 	bool g_window_flag = true;
 	bool g_render_flag = true;
 

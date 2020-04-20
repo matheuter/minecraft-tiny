@@ -122,6 +122,33 @@ minecraft/fast:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/build
 .PHONY : minecraft/fast
 
+Block/Block.obj: Block/Block.cpp.obj
+
+.PHONY : Block/Block.obj
+
+# target to build an object file
+Block/Block.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Block.cpp.obj
+.PHONY : Block/Block.cpp.obj
+
+Block/Block.i: Block/Block.cpp.i
+
+.PHONY : Block/Block.i
+
+# target to preprocess a source file
+Block/Block.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Block.cpp.i
+.PHONY : Block/Block.cpp.i
+
+Block/Block.s: Block/Block.cpp.s
+
+.PHONY : Block/Block.s
+
+# target to generate assembly for a file
+Block/Block.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Block.cpp.s
+.PHONY : Block/Block.cpp.s
+
 Block/Chunk.obj: Block/Chunk.cpp.obj
 
 .PHONY : Block/Chunk.obj
@@ -212,6 +239,9 @@ help:
 	@echo ... edit_cache
 	@echo ... minecraft
 	@echo ... rebuild_cache
+	@echo ... Block/Block.obj
+	@echo ... Block/Block.i
+	@echo ... Block/Block.s
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s

@@ -2,10 +2,10 @@
 #define MINECRAFT_WORLD_H
 #include "../GL/gl_imp.h"
 #include "../Block/Chunk.h"
+#include "../Block/Block.h"
 #include <map>
 #include <queue>
 #include <list>
-class Block;
 class World
 {
 public:
