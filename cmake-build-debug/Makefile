@@ -176,6 +176,33 @@ Block/Chunk.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.s
 .PHONY : Block/Chunk.cpp.s
 
+Texture/Texture.obj: Texture/Texture.cpp.obj
+
+.PHONY : Texture/Texture.obj
+
+# target to build an object file
+Texture/Texture.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj
+.PHONY : Texture/Texture.cpp.obj
+
+Texture/Texture.i: Texture/Texture.cpp.i
+
+.PHONY : Texture/Texture.i
+
+# target to preprocess a source file
+Texture/Texture.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.i
+.PHONY : Texture/Texture.cpp.i
+
+Texture/Texture.s: Texture/Texture.cpp.s
+
+.PHONY : Texture/Texture.s
+
+# target to generate assembly for a file
+Texture/Texture.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.s
+.PHONY : Texture/Texture.cpp.s
+
 World/World.obj: World/World.cpp.obj
 
 .PHONY : World/World.obj
@@ -245,6 +272,9 @@ help:
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s
+	@echo ... Texture/Texture.obj
+	@echo ... Texture/Texture.i
+	@echo ... Texture/Texture.s
 	@echo ... World/World.obj
 	@echo ... World/World.i
 	@echo ... World/World.s

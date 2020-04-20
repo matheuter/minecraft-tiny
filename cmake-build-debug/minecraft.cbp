@@ -101,6 +101,12 @@
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Texture/Texture.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Texture/Texture.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/World/World.cpp">
 			<Option target="minecraft"/>
 		</Unit>

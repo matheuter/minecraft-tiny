@@ -5,9 +5,11 @@
 #ifndef MINECRAFT_BLOCK_H
 #define MINECRAFT_BLOCK_H
 
-
+#include "../GL/gl_imp.h"
 class Block
 {
+private:
+	glm::vec3 m_position;
 
 };
 

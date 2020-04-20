@@ -31,7 +31,7 @@ add_executable(minecraft
         Block/Chunk.cpp
         Block/Chunk.h
         Block/Block.cpp
-        Block/Block.h )
+        Block/Block.h Texture/Texture.cpp Texture/Texture.h)
 target_link_libraries(minecraft
         SDL2
         SDL2main
