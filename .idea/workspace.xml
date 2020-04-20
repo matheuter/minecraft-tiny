@@ -11,21 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddeb4542-c510-499c-b2c7-5cca1542f7ae" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/Texture/Texture.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Texture/Texture.h" afterDir="false" />
+    <list default="true" id="ddeb4542-c510-499c-b2c7-5cca1542f7ae" name="默认更改列表" comment="fuck">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Block/Block.h" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Block.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/minecraft.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/minecraft.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +31,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ahN5UQ6orU9I3y1PPJTTOjjnL2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -90,7 +78,7 @@
       <workItem from="1587313186455" duration="2932000" />
       <workItem from="1587323999703" duration="1905000" />
       <workItem from="1587346485989" duration="4088000" />
-      <workItem from="1587384988226" duration="1526000" />
+      <workItem from="1587384988226" duration="2035000" />
     </task>
     <task id="LOCAL-00001" summary="fuck">
       <created>1587385375454</created>
@@ -120,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587385974512</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fuck">
+      <created>1587386645476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587386645476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,10 +142,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587315526312" />
-    <state x="399" y="9" key="CommitChangelistDialog2" timestamp="1587385973758">
+    <state x="235" y="10" key="CommitChangelistDialog2" timestamp="1587386999509">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="399" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587385973758" />
+    <state x="235" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587386999509" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587292307066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -171,14 +166,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587315160482" />
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1587385998363">
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1587387017628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587385998363" />
-    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587385988384">
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587387017628" />
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587387004441">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587385988384" />
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587387004441" />
     <state x="462" y="44" width="611" height="735" key="find.popup" timestamp="1587386167403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
