@@ -33,7 +33,7 @@ add_executable(minecraft
         Block/Block.cpp
         Block/Block.h
         Texture/Texture.cpp
-        Texture/Texture.h)
+        Texture/Texture.h Shader/Shader.cpp Shader/Shader.h Texture/SkyBox.cpp Texture/SkyBox.h)
 target_link_libraries(minecraft
         SDL2
         SDL2main

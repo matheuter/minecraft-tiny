@@ -101,6 +101,18 @@
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Shader/Shader.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Shader/Shader.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Texture/SkyBox.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Texture/SkyBox.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/Texture/Texture.cpp">
 			<Option target="minecraft"/>
 		</Unit>

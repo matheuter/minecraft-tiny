@@ -10,5 +10,5 @@
 #include <glm/gtx/transform.hpp>
 #include<SDL2/SDL.h>
 #include<SDL2/SDL_image.h>
-
+#include <glew.h>
 #endif //MINECRAFT_GL_IMP_H

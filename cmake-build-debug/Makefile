@@ -176,6 +176,60 @@ Block/Chunk.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.s
 .PHONY : Block/Chunk.cpp.s
 
+Shader/Shader.obj: Shader/Shader.cpp.obj
+
+.PHONY : Shader/Shader.obj
+
+# target to build an object file
+Shader/Shader.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj
+.PHONY : Shader/Shader.cpp.obj
+
+Shader/Shader.i: Shader/Shader.cpp.i
+
+.PHONY : Shader/Shader.i
+
+# target to preprocess a source file
+Shader/Shader.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Shader/Shader.cpp.i
+.PHONY : Shader/Shader.cpp.i
+
+Shader/Shader.s: Shader/Shader.cpp.s
+
+.PHONY : Shader/Shader.s
+
+# target to generate assembly for a file
+Shader/Shader.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Shader/Shader.cpp.s
+.PHONY : Shader/Shader.cpp.s
+
+Texture/SkyBox.obj: Texture/SkyBox.cpp.obj
+
+.PHONY : Texture/SkyBox.obj
+
+# target to build an object file
+Texture/SkyBox.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj
+.PHONY : Texture/SkyBox.cpp.obj
+
+Texture/SkyBox.i: Texture/SkyBox.cpp.i
+
+.PHONY : Texture/SkyBox.i
+
+# target to preprocess a source file
+Texture/SkyBox.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.i
+.PHONY : Texture/SkyBox.cpp.i
+
+Texture/SkyBox.s: Texture/SkyBox.cpp.s
+
+.PHONY : Texture/SkyBox.s
+
+# target to generate assembly for a file
+Texture/SkyBox.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.s
+.PHONY : Texture/SkyBox.cpp.s
+
 Texture/Texture.obj: Texture/Texture.cpp.obj
 
 .PHONY : Texture/Texture.obj
@@ -272,6 +326,12 @@ help:
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s
+	@echo ... Shader/Shader.obj
+	@echo ... Shader/Shader.i
+	@echo ... Shader/Shader.s
+	@echo ... Texture/SkyBox.obj
+	@echo ... Texture/SkyBox.i
+	@echo ... Texture/SkyBox.s
 	@echo ... Texture/Texture.obj
 	@echo ... Texture/Texture.i
 	@echo ... Texture/Texture.s

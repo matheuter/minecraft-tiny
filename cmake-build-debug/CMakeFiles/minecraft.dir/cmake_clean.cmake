@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/minecraft.dir/Block/Block.cpp.obj"
   "CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj"
+  "CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj"
+  "CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj"
   "CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj"
   "CMakeFiles/minecraft.dir/World/World.cpp.obj"
   "CMakeFiles/minecraft.dir/main.cpp.obj"

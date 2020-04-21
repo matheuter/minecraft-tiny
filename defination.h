@@ -2,7 +2,6 @@
 // Created by bainsky on 2020/4/19.
 // tips: a header to define const value
 //
-
 #ifndef MINECRAFT_DEFINATION_H
 #define MINECRAFT_DEFINATION_H
 

@@ -26,6 +26,7 @@ public:
 	void destoryWorld();
 	void addChunk(const_vec3 &position);
 	void hideChunk(const_vec3 &position);
+
 	Chunk *getCurrentChunk();
 	void setCamera(const_vec3 &eye, const_vec3 &look, const_vec3 &up);
 	void updateWorld();
