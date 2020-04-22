@@ -23,7 +23,6 @@ namespace minecraft
 
 	bool g_window_flag = true;
 	bool g_render_flag = true;
-
 }// namespace minecraft
 
 #endif //MINECRAFT_DEFINATION_H
