@@ -101,6 +101,24 @@
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Attribute.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Attribute.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Mesh.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Mesh.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Model.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Model/Model.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/Shader/Shader.cpp">
 			<Option target="minecraft"/>
 		</Unit>

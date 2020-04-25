@@ -12,15 +12,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddeb4542-c510-499c-b2c7-5cca1542f7ae" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/Model/Attribute.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Attribute.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Mesh.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Mesh.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Model.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Model.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Block/Block.h" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Block.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shader/Shader.h" beforeDir="false" afterPath="$PROJECT_DIR$/Shader/Shader.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/World/World.h" beforeDir="false" afterPath="$PROJECT_DIR$/World/World.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/minecraft.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/minecraft.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/minecraft.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/defination.h" beforeDir="false" afterPath="$PROJECT_DIR$/defination.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +57,9 @@
     <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="minecraft" />
+  </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -121,7 +136,14 @@
       <workItem from="1587445587554" duration="721000" />
       <workItem from="1587452274084" duration="248000" />
       <workItem from="1587519045181" duration="301000" />
-      <workItem from="1587540676957" duration="435000" />
+      <workItem from="1587540676957" duration="1210000" />
+      <workItem from="1587568326105" duration="787000" />
+      <workItem from="1587655227050" duration="5000" />
+      <workItem from="1587701383556" duration="74000" />
+      <workItem from="1587701473192" duration="458000" />
+      <workItem from="1587735571047" duration="13000" />
+      <workItem from="1587806571817" duration="1095000" />
+      <workItem from="1587825835645" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="fuck">
       <created>1587385375454</created>
@@ -186,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587446162525</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add files">
+      <created>1587541127022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587541127022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,14 +249,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="609" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587324217123" />
-    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1587409520026">
+    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1587827247282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587409520026" />
-    <state x="235" y="10" width="890" height="806" key="CommitChangelistDialog2" timestamp="1587446161577">
+    <state x="568" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587827247282" />
+    <state x="235" y="10" width="890" height="806" key="CommitChangelistDialog2" timestamp="1587541125998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="235" y="10" width="890" height="806" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587446161577" />
+    <state x="235" y="10" width="890" height="806" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587541125998" />
     <state x="17" y="110" width="1228" height="688" key="DiffContextDialog" timestamp="1587541112112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -236,22 +265,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587519052721" />
-    <state width="1493" height="344" key="GridCell.Tab.0.bottom" timestamp="1587541103293">
+    <state width="1493" height="344" key="GridCell.Tab.0.bottom" timestamp="1587552003358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="344" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587541103293" />
-    <state width="1493" height="344" key="GridCell.Tab.0.center" timestamp="1587541103293">
+    <state width="1493" height="344" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587552003358" />
+    <state width="1493" height="344" key="GridCell.Tab.0.center" timestamp="1587552003358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="344" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587541103293" />
-    <state width="1493" height="344" key="GridCell.Tab.0.left" timestamp="1587541103293">
+    <state width="1493" height="344" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587552003358" />
+    <state width="1493" height="344" key="GridCell.Tab.0.left" timestamp="1587552003358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="344" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587541103293" />
-    <state width="1493" height="344" key="GridCell.Tab.0.right" timestamp="1587541103293">
+    <state width="1493" height="344" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587552003358" />
+    <state width="1493" height="344" key="GridCell.Tab.0.right" timestamp="1587552003358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="344" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587541103293" />
+    <state width="1493" height="344" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587552003358" />
     <state x="272" y="57" key="SettingsEditor" timestamp="1587315160482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -260,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1587387316004" />
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1587446195542">
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1587541137144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587446195542" />
+    <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587541137144" />
     <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587387481962">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -276,5 +305,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587387255208" />
+    <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587701797838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1587701797838" />
   </component>
 </project>

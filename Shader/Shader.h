@@ -5,5 +5,4 @@ class Shader
 {
 };
 
-
 #endif //MINECRAFT_SHADER_H

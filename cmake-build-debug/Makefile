@@ -176,6 +176,87 @@ Block/Chunk.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.s
 .PHONY : Block/Chunk.cpp.s
 
+Model/Attribute.obj: Model/Attribute.cpp.obj
+
+.PHONY : Model/Attribute.obj
+
+# target to build an object file
+Model/Attribute.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj
+.PHONY : Model/Attribute.cpp.obj
+
+Model/Attribute.i: Model/Attribute.cpp.i
+
+.PHONY : Model/Attribute.i
+
+# target to preprocess a source file
+Model/Attribute.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Attribute.cpp.i
+.PHONY : Model/Attribute.cpp.i
+
+Model/Attribute.s: Model/Attribute.cpp.s
+
+.PHONY : Model/Attribute.s
+
+# target to generate assembly for a file
+Model/Attribute.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Attribute.cpp.s
+.PHONY : Model/Attribute.cpp.s
+
+Model/Mesh.obj: Model/Mesh.cpp.obj
+
+.PHONY : Model/Mesh.obj
+
+# target to build an object file
+Model/Mesh.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj
+.PHONY : Model/Mesh.cpp.obj
+
+Model/Mesh.i: Model/Mesh.cpp.i
+
+.PHONY : Model/Mesh.i
+
+# target to preprocess a source file
+Model/Mesh.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Mesh.cpp.i
+.PHONY : Model/Mesh.cpp.i
+
+Model/Mesh.s: Model/Mesh.cpp.s
+
+.PHONY : Model/Mesh.s
+
+# target to generate assembly for a file
+Model/Mesh.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Mesh.cpp.s
+.PHONY : Model/Mesh.cpp.s
+
+Model/Model.obj: Model/Model.cpp.obj
+
+.PHONY : Model/Model.obj
+
+# target to build an object file
+Model/Model.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Model.cpp.obj
+.PHONY : Model/Model.cpp.obj
+
+Model/Model.i: Model/Model.cpp.i
+
+.PHONY : Model/Model.i
+
+# target to preprocess a source file
+Model/Model.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Model.cpp.i
+.PHONY : Model/Model.cpp.i
+
+Model/Model.s: Model/Model.cpp.s
+
+.PHONY : Model/Model.s
+
+# target to generate assembly for a file
+Model/Model.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Model/Model.cpp.s
+.PHONY : Model/Model.cpp.s
+
 Shader/Shader.obj: Shader/Shader.cpp.obj
 
 .PHONY : Shader/Shader.obj
@@ -326,6 +407,15 @@ help:
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s
+	@echo ... Model/Attribute.obj
+	@echo ... Model/Attribute.i
+	@echo ... Model/Attribute.s
+	@echo ... Model/Mesh.obj
+	@echo ... Model/Mesh.i
+	@echo ... Model/Mesh.s
+	@echo ... Model/Model.obj
+	@echo ... Model/Model.i
+	@echo ... Model/Model.s
 	@echo ... Shader/Shader.obj
 	@echo ... Shader/Shader.i
 	@echo ... Shader/Shader.s

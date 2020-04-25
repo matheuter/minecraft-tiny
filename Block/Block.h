@@ -11,9 +11,6 @@ private:
 public:
 	Block() = default;
 	~Block();
-
 	virtual void drawBlock();
 };
-
-
 #endif //MINECRAFT_BLOCK_H

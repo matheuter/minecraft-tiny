@@ -154,6 +154,48 @@ CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Texture\SkyBox.cpp -o CMakeFiles\minecraft.dir\Texture\SkyBox.cpp.s
 
+CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: ../Model/Mesh.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Model\Mesh.cpp.obj -c F:\c++\minecraft\Model\Mesh.cpp
+
+CMakeFiles/minecraft.dir/Model/Mesh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Model/Mesh.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Model\Mesh.cpp > CMakeFiles\minecraft.dir\Model\Mesh.cpp.i
+
+CMakeFiles/minecraft.dir/Model/Mesh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Model/Mesh.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Model\Mesh.cpp -o CMakeFiles\minecraft.dir\Model\Mesh.cpp.s
+
+CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: ../Model/Attribute.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Model\Attribute.cpp.obj -c F:\c++\minecraft\Model\Attribute.cpp
+
+CMakeFiles/minecraft.dir/Model/Attribute.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Model/Attribute.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Model\Attribute.cpp > CMakeFiles\minecraft.dir\Model\Attribute.cpp.i
+
+CMakeFiles/minecraft.dir/Model/Attribute.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Model/Attribute.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Model\Attribute.cpp -o CMakeFiles\minecraft.dir\Model\Attribute.cpp.s
+
+CMakeFiles/minecraft.dir/Model/Model.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/Model/Model.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/Model/Model.cpp.obj: ../Model/Model.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/minecraft.dir/Model/Model.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Model\Model.cpp.obj -c F:\c++\minecraft\Model\Model.cpp
+
+CMakeFiles/minecraft.dir/Model/Model.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Model/Model.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Model\Model.cpp > CMakeFiles\minecraft.dir\Model\Model.cpp.i
+
+CMakeFiles/minecraft.dir/Model/Model.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Model/Model.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Model\Model.cpp -o CMakeFiles\minecraft.dir\Model\Model.cpp.s
+
 # Object files for target minecraft
 minecraft_OBJECTS = \
 "CMakeFiles/minecraft.dir/main.cpp.obj" \
@@ -162,7 +204,10 @@ minecraft_OBJECTS = \
 "CMakeFiles/minecraft.dir/Block/Block.cpp.obj" \
 "CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj" \
 "CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj" \
-"CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj"
+"CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj" \
+"CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj" \
+"CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj" \
+"CMakeFiles/minecraft.dir/Model/Model.cpp.obj"
 
 # External object files for target minecraft
 minecraft_EXTERNAL_OBJECTS =
@@ -174,11 +219,14 @@ minecraft.exe: CMakeFiles/minecraft.dir/Block/Block.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/Model/Model.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/build.make
 minecraft.exe: CMakeFiles/minecraft.dir/linklibs.rsp
 minecraft.exe: CMakeFiles/minecraft.dir/objects1.rsp
 minecraft.exe: CMakeFiles/minecraft.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable minecraft.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable minecraft.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\minecraft.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
