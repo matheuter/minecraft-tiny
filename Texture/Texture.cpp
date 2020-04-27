@@ -3,3 +3,8 @@
 //
 
 #include "Texture.h"
+
+Texture::Texture(const char *texture_path)
+{
+
+}

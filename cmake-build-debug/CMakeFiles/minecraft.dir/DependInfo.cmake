@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/c++/minecraft/Texture/Texture.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj"
   "F:/c++/minecraft/World/World.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj"
   "F:/c++/minecraft/main.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/main.cpp.obj"
+  "F:/c++/minecraft/unity/unity.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/unity/unity.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

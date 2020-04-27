@@ -392,6 +392,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+unity/unity.obj: unity/unity.cpp.obj
+
+.PHONY : unity/unity.obj
+
+# target to build an object file
+unity/unity.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.obj
+.PHONY : unity/unity.cpp.obj
+
+unity/unity.i: unity/unity.cpp.i
+
+.PHONY : unity/unity.i
+
+# target to preprocess a source file
+unity/unity.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.i
+.PHONY : unity/unity.cpp.i
+
+unity/unity.s: unity/unity.cpp.s
+
+.PHONY : unity/unity.s
+
+# target to generate assembly for a file
+unity/unity.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.s
+.PHONY : unity/unity.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -431,6 +458,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... unity/unity.obj
+	@echo ... unity/unity.i
+	@echo ... unity/unity.s
 .PHONY : help
 
 

@@ -17,11 +17,7 @@ public:
 public:
 	Chunk();
 	~Chunk();
-
-
 private:
 	BlockMap m_blocks;
 };
-
-
 #endif //MINECRAFT_CHUNK_H

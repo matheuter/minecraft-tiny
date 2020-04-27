@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj"
   "CMakeFiles/minecraft.dir/World/World.cpp.obj"
   "CMakeFiles/minecraft.dir/main.cpp.obj"
+  "CMakeFiles/minecraft.dir/unity/unity.cpp.obj"
   "libminecraft.dll.a"
   "minecraft.exe"
   "minecraft.exe.manifest"

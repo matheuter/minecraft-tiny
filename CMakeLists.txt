@@ -15,6 +15,7 @@ link_libraries(
         SDL2
         SDL2main
         SDL2_image)
+
 #-glm-
 include_directories(${GLM_INC_DIR})
 #-glew-
@@ -41,7 +42,11 @@ add_executable(minecraft
         Model/Mesh.cpp
         Model/Mesh.h
         Model/Attribute.cpp
-        Model/Attribute.h Model/Model.cpp Model/Model.h)
+        Model/Attribute.h
+        Model/Model.cpp
+        Model/Model.h
+        unity/unity.cpp
+        unity/unity.h)
 target_link_libraries(minecraft
         SDL2
         SDL2main

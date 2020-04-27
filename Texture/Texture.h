@@ -4,7 +4,10 @@
 
 class Texture
 {
-
+public:
+	unsigned int texture_id;
+public:
+	Texture(const char* texture_path);
 };
 
 

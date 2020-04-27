@@ -149,6 +149,12 @@
 		<Unit filename="F:/c++/minecraft/main.cpp">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/unity/unity.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/unity/unity.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
