@@ -338,6 +338,33 @@ Texture/Texture.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.s
 .PHONY : Texture/Texture.cpp.s
 
+World/Player.obj: World/Player.cpp.obj
+
+.PHONY : World/Player.obj
+
+# target to build an object file
+World/Player.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/World/Player.cpp.obj
+.PHONY : World/Player.cpp.obj
+
+World/Player.i: World/Player.cpp.i
+
+.PHONY : World/Player.i
+
+# target to preprocess a source file
+World/Player.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/World/Player.cpp.i
+.PHONY : World/Player.cpp.i
+
+World/Player.s: World/Player.cpp.s
+
+.PHONY : World/Player.s
+
+# target to generate assembly for a file
+World/Player.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/World/Player.cpp.s
+.PHONY : World/Player.cpp.s
+
 World/World.obj: World/World.cpp.obj
 
 .PHONY : World/World.obj
@@ -452,6 +479,9 @@ help:
 	@echo ... Texture/Texture.obj
 	@echo ... Texture/Texture.i
 	@echo ... Texture/Texture.s
+	@echo ... World/Player.obj
+	@echo ... World/Player.i
+	@echo ... World/Player.s
 	@echo ... World/World.obj
 	@echo ... World/World.i
 	@echo ... World/World.s

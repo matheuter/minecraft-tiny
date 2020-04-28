@@ -46,7 +46,9 @@ add_executable(minecraft
         Model/Model.cpp
         Model/Model.h
         unity/unity.cpp
-        unity/unity.h)
+        unity/unity.h
+        World/Player.cpp
+        World/Player.h)
 target_link_libraries(minecraft
         SDL2
         SDL2main

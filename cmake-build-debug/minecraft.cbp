@@ -137,6 +137,12 @@
 		<Unit filename="F:/c++/minecraft/Texture/Texture.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/World/Player.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/World/Player.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/World/World.cpp">
 			<Option target="minecraft"/>
 		</Unit>
