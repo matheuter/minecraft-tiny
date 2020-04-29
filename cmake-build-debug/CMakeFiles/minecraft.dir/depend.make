@@ -17,7 +17,6 @@ CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SD
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -254,6 +253,9 @@ CMakeFiles/minecraft.dir/Block/Block.cpp.obj: ../Block/Block.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: ../GL/gl_imp.h
 CMakeFiles/minecraft.dir/Block/Block.cpp.obj: ../Texture/Texture.h
 
+CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj: ../Block/BlockType.cpp
+CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj: ../Block/BlockType.h
+
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_assert.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_atomic.h
@@ -270,7 +272,6 @@ CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SD
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -522,7 +523,6 @@ CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -774,7 +774,6 @@ CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1032,7 +1031,6 @@ CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1287,7 +1285,6 @@ CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1542,7 +1539,6 @@ CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SD
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/World/World.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1797,7 +1793,6 @@ CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gamec
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
-CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_image.h
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
 CMakeFiles/minecraft.dir/main.cpp.obj: D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -2033,6 +2028,9 @@ CMakeFiles/minecraft.dir/main.cpp.obj: ../GL/gl_imp.h
 CMakeFiles/minecraft.dir/main.cpp.obj: ../defination.h
 CMakeFiles/minecraft.dir/main.cpp.obj: ../main.cpp
 
-CMakeFiles/minecraft.dir/unity/unity.cpp.obj: ../unity/unity.cpp
-CMakeFiles/minecraft.dir/unity/unity.cpp.obj: ../unity/unity.h
+CMakeFiles/minecraft.dir/math/Noise.cpp.obj: ../math/Noise.cpp
+CMakeFiles/minecraft.dir/math/Noise.cpp.obj: ../math/Noise.h
+
+CMakeFiles/minecraft.dir/unity/Unity.cpp.obj: ../Unity/Unity.cpp
+CMakeFiles/minecraft.dir/unity/Unity.cpp.obj: ../Unity/Unity.h
 

@@ -11,9 +11,8 @@
 #include <glm/gtc/type_ptr.hpp>
 
 #include <glew.h>
-#define SDL_MAIN_HANDLED
-#include<SDL2/SDL.h>
-#include<SDL2/SDL_image.h>
+
+#include <SDL2/SDL_main.h>
+#include <SDL2/SDL.h>
 #include <SDL2/SDL_opengl.h>
-#include <GL/gl.h>
 #endif //MINECRAFT_GL_IMP_H

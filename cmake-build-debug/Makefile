@@ -149,6 +149,33 @@ Block/Block.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Block.cpp.s
 .PHONY : Block/Block.cpp.s
 
+Block/BlockType.obj: Block/BlockType.cpp.obj
+
+.PHONY : Block/BlockType.obj
+
+# target to build an object file
+Block/BlockType.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj
+.PHONY : Block/BlockType.cpp.obj
+
+Block/BlockType.i: Block/BlockType.cpp.i
+
+.PHONY : Block/BlockType.i
+
+# target to preprocess a source file
+Block/BlockType.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/BlockType.cpp.i
+.PHONY : Block/BlockType.cpp.i
+
+Block/BlockType.s: Block/BlockType.cpp.s
+
+.PHONY : Block/BlockType.s
+
+# target to generate assembly for a file
+Block/BlockType.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/BlockType.cpp.s
+.PHONY : Block/BlockType.cpp.s
+
 Block/Chunk.obj: Block/Chunk.cpp.obj
 
 .PHONY : Block/Chunk.obj
@@ -338,6 +365,33 @@ Texture/Texture.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.s
 .PHONY : Texture/Texture.cpp.s
 
+Unity/Unity.obj: Unity/Unity.cpp.obj
+
+.PHONY : Unity/Unity.obj
+
+# target to build an object file
+Unity/Unity.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Unity.cpp.obj
+.PHONY : Unity/Unity.cpp.obj
+
+Unity/Unity.i: Unity/Unity.cpp.i
+
+.PHONY : Unity/Unity.i
+
+# target to preprocess a source file
+Unity/Unity.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Unity.cpp.i
+.PHONY : Unity/Unity.cpp.i
+
+Unity/Unity.s: Unity/Unity.cpp.s
+
+.PHONY : Unity/Unity.s
+
+# target to generate assembly for a file
+Unity/Unity.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Unity.cpp.s
+.PHONY : Unity/Unity.cpp.s
+
 World/Player.obj: World/Player.cpp.obj
 
 .PHONY : World/Player.obj
@@ -419,32 +473,32 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-unity/unity.obj: unity/unity.cpp.obj
+math/Noise.obj: math/Noise.cpp.obj
 
-.PHONY : unity/unity.obj
+.PHONY : math/Noise.obj
 
 # target to build an object file
-unity/unity.cpp.obj:
-	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.obj
-.PHONY : unity/unity.cpp.obj
+math/Noise.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/math/Noise.cpp.obj
+.PHONY : math/Noise.cpp.obj
 
-unity/unity.i: unity/unity.cpp.i
+math/Noise.i: math/Noise.cpp.i
 
-.PHONY : unity/unity.i
+.PHONY : math/Noise.i
 
 # target to preprocess a source file
-unity/unity.cpp.i:
-	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.i
-.PHONY : unity/unity.cpp.i
+math/Noise.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/math/Noise.cpp.i
+.PHONY : math/Noise.cpp.i
 
-unity/unity.s: unity/unity.cpp.s
+math/Noise.s: math/Noise.cpp.s
 
-.PHONY : unity/unity.s
+.PHONY : math/Noise.s
 
 # target to generate assembly for a file
-unity/unity.cpp.s:
-	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/unity/unity.cpp.s
-.PHONY : unity/unity.cpp.s
+math/Noise.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/math/Noise.cpp.s
+.PHONY : math/Noise.cpp.s
 
 # Help Target
 help:
@@ -458,6 +512,9 @@ help:
 	@echo ... Block/Block.obj
 	@echo ... Block/Block.i
 	@echo ... Block/Block.s
+	@echo ... Block/BlockType.obj
+	@echo ... Block/BlockType.i
+	@echo ... Block/BlockType.s
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s
@@ -479,6 +536,9 @@ help:
 	@echo ... Texture/Texture.obj
 	@echo ... Texture/Texture.i
 	@echo ... Texture/Texture.s
+	@echo ... Unity/Unity.obj
+	@echo ... Unity/Unity.i
+	@echo ... Unity/Unity.s
 	@echo ... World/Player.obj
 	@echo ... World/Player.i
 	@echo ... World/Player.s
@@ -488,9 +548,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... unity/unity.obj
-	@echo ... unity/unity.i
-	@echo ... unity/unity.s
+	@echo ... math/Noise.obj
+	@echo ... math/Noise.i
+	@echo ... math/Noise.s
 .PHONY : help
 
 

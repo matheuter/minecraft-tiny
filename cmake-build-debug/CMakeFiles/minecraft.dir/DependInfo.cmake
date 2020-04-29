@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "F:/c++/minecraft/Block/Block.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Block.cpp.obj"
+  "F:/c++/minecraft/Block/BlockType.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj"
   "F:/c++/minecraft/Block/Chunk.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj"
   "F:/c++/minecraft/Model/Attribute.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj"
   "F:/c++/minecraft/Model/Mesh.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj"
@@ -15,7 +16,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/c++/minecraft/World/Player.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/Player.cpp.obj"
   "F:/c++/minecraft/World/World.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj"
   "F:/c++/minecraft/main.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/main.cpp.obj"
-  "F:/c++/minecraft/unity/unity.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/unity/unity.cpp.obj"
+  "F:/c++/minecraft/math/Noise.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/math/Noise.cpp.obj"
+  "F:/c++/minecraft/Unity/Unity.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/unity/Unity.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

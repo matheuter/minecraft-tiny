@@ -92,6 +92,12 @@
 		<Unit filename="F:/c++/minecraft/Block/Block.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Block/BlockType.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Block/BlockType.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/Block/Chunk.cpp">
 			<Option target="minecraft"/>
 		</Unit>
@@ -137,6 +143,12 @@
 		<Unit filename="F:/c++/minecraft/Texture/Texture.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Unity/Unity.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Unity/Unity.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/World/Player.cpp">
 			<Option target="minecraft"/>
 		</Unit>
@@ -155,10 +167,10 @@
 		<Unit filename="F:/c++/minecraft/main.cpp">
 			<Option target="minecraft"/>
 		</Unit>
-		<Unit filename="F:/c++/minecraft/unity/unity.cpp">
+		<Unit filename="F:/c++/minecraft/math/Noise.cpp">
 			<Option target="minecraft"/>
 		</Unit>
-		<Unit filename="F:/c++/minecraft/unity/unity.h">
+		<Unit filename="F:/c++/minecraft/math/Noise.h">
 			<Option target="minecraft"/>
 		</Unit>
 		<Unit filename="F:/c++/minecraft/CMakeLists.txt">

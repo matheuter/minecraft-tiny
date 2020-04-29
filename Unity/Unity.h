@@ -5,7 +5,7 @@
 #ifndef MINECRAFT_UNITY_H
 #define MINECRAFT_UNITY_H
 
-class unity
+class Unity
 {
 };
 

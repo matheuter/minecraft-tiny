@@ -45,12 +45,18 @@ add_executable(minecraft
         Model/Attribute.h
         Model/Model.cpp
         Model/Model.h
-        unity/unity.cpp
-        unity/unity.h
+        Unity/Unity.cpp
+        Unity/Unity.h
         World/Player.cpp
-        World/Player.h)
+        World/Player.h
+        Block/BlockType.cpp
+        Block/BlockType.h
+        math/Noise.cpp
+        math/Noise.h)
 target_link_libraries(minecraft
+        opengl32
         SDL2
         SDL2main
         SDL2_image
-        glew32)
+        glew32
+        )

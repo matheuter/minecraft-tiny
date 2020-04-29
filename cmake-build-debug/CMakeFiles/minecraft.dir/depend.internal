@@ -18,7 +18,6 @@ CMakeFiles/minecraft.dir/Block/Block.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -254,6 +253,9 @@ CMakeFiles/minecraft.dir/Block/Block.cpp.obj
  F:/c++/minecraft/Block/Block.h
  F:/c++/minecraft/GL/gl_imp.h
  F:/c++/minecraft/Texture/Texture.h
+CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj
+ F:/c++/minecraft/Block/BlockType.cpp
+ F:/c++/minecraft/Block/BlockType.h
 CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL.h
  D:/thirdlibary/SDL/include/SDL2/SDL_assert.h
@@ -271,7 +273,6 @@ CMakeFiles/minecraft.dir/Block/Chunk.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -523,7 +524,6 @@ CMakeFiles/minecraft.dir/Model/Attribute.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -775,7 +775,6 @@ CMakeFiles/minecraft.dir/Model/Mesh.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1033,7 +1032,6 @@ CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1288,7 +1286,6 @@ CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1543,7 +1540,6 @@ CMakeFiles/minecraft.dir/World/World.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -1798,7 +1794,6 @@ CMakeFiles/minecraft.dir/main.cpp.obj
  D:/thirdlibary/SDL/include/SDL2/SDL_gesture.h
  D:/thirdlibary/SDL/include/SDL2/SDL_haptic.h
  D:/thirdlibary/SDL/include/SDL2/SDL_hints.h
- D:/thirdlibary/SDL/include/SDL2/SDL_image.h
  D:/thirdlibary/SDL/include/SDL2/SDL_joystick.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keyboard.h
  D:/thirdlibary/SDL/include/SDL2/SDL_keycode.h
@@ -2033,6 +2028,9 @@ CMakeFiles/minecraft.dir/main.cpp.obj
  F:/c++/minecraft/GL/gl_imp.h
  F:/c++/minecraft/defination.h
  F:/c++/minecraft/main.cpp
-CMakeFiles/minecraft.dir/unity/unity.cpp.obj
- F:/c++/minecraft/unity/unity.cpp
- F:/c++/minecraft/unity/unity.h
+CMakeFiles/minecraft.dir/math/Noise.cpp.obj
+ F:/c++/minecraft/math/Noise.cpp
+ F:/c++/minecraft/math/Noise.h
+CMakeFiles/minecraft.dir/unity/Unity.cpp.obj
+ F:/c++/minecraft/Unity/Unity.cpp
+ F:/c++/minecraft/Unity/Unity.h
