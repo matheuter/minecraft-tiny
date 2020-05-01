@@ -8,6 +8,7 @@ class Block
 private:
 	glm::vec3 m_position;
 	Texture* m_pTexture;
+	bool m_isVisable;
 public:
 	Block() = default;
 	~Block();

@@ -21,7 +21,7 @@ include_directories(${GLM_INC_DIR})
 #-glew-
 include_directories(${GLEW_INC_DIR})
 link_directories(${GLEW_LIB_DIR})
-link_libraries(glew32)
+link_libraries(opengl32 glew32)
 
 add_executable(minecraft
         main.cpp
@@ -52,11 +52,15 @@ add_executable(minecraft
         Block/BlockType.cpp
         Block/BlockType.h
         math/Noise.cpp
-        math/Noise.h)
+        math/Noise.h
+        Unity/Player.cpp
+        Unity/Player.h
+        Expression/Expression.cpp
+        Expression/Expression.h)
 target_link_libraries(minecraft
         opengl32
+        glew32
         SDL2
         SDL2main
         SDL2_image
-        glew32
         )

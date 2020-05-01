@@ -203,6 +203,33 @@ Block/Chunk.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Block/Chunk.cpp.s
 .PHONY : Block/Chunk.cpp.s
 
+Expression/Expression.obj: Expression/Expression.cpp.obj
+
+.PHONY : Expression/Expression.obj
+
+# target to build an object file
+Expression/Expression.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj
+.PHONY : Expression/Expression.cpp.obj
+
+Expression/Expression.i: Expression/Expression.cpp.i
+
+.PHONY : Expression/Expression.i
+
+# target to preprocess a source file
+Expression/Expression.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Expression/Expression.cpp.i
+.PHONY : Expression/Expression.cpp.i
+
+Expression/Expression.s: Expression/Expression.cpp.s
+
+.PHONY : Expression/Expression.s
+
+# target to generate assembly for a file
+Expression/Expression.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Expression/Expression.cpp.s
+.PHONY : Expression/Expression.cpp.s
+
 Model/Attribute.obj: Model/Attribute.cpp.obj
 
 .PHONY : Model/Attribute.obj
@@ -365,6 +392,33 @@ Texture/Texture.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Texture/Texture.cpp.s
 .PHONY : Texture/Texture.cpp.s
 
+Unity/Player.obj: Unity/Player.cpp.obj
+
+.PHONY : Unity/Player.obj
+
+# target to build an object file
+Unity/Player.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Player.cpp.obj
+.PHONY : Unity/Player.cpp.obj
+
+Unity/Player.i: Unity/Player.cpp.i
+
+.PHONY : Unity/Player.i
+
+# target to preprocess a source file
+Unity/Player.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Player.cpp.i
+.PHONY : Unity/Player.cpp.i
+
+Unity/Player.s: Unity/Player.cpp.s
+
+.PHONY : Unity/Player.s
+
+# target to generate assembly for a file
+Unity/Player.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Player.cpp.s
+.PHONY : Unity/Player.cpp.s
+
 Unity/Unity.obj: Unity/Unity.cpp.obj
 
 .PHONY : Unity/Unity.obj
@@ -518,6 +572,9 @@ help:
 	@echo ... Block/Chunk.obj
 	@echo ... Block/Chunk.i
 	@echo ... Block/Chunk.s
+	@echo ... Expression/Expression.obj
+	@echo ... Expression/Expression.i
+	@echo ... Expression/Expression.s
 	@echo ... Model/Attribute.obj
 	@echo ... Model/Attribute.i
 	@echo ... Model/Attribute.s
@@ -536,6 +593,9 @@ help:
 	@echo ... Texture/Texture.obj
 	@echo ... Texture/Texture.i
 	@echo ... Texture/Texture.s
+	@echo ... Unity/Player.obj
+	@echo ... Unity/Player.i
+	@echo ... Unity/Player.s
 	@echo ... Unity/Unity.obj
 	@echo ... Unity/Unity.i
 	@echo ... Unity/Unity.s

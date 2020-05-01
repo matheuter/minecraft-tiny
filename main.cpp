@@ -65,7 +65,6 @@ int main(int argc, char *argv[])
 			}
 		}
 
-		// Set background color as cornflower blue
 		glClearColor(0.39f, 0.58f, 0.93f, 1.f);
 		// Clear color buffer
 		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
@@ -76,9 +75,8 @@ int main(int argc, char *argv[])
 	//Destroy window
 	SDL_DestroyWindow(window);
 	window = NULL;
-
+	std::cout << "niho"<<std::endl;
 	//Quit SDL subsystems
 	SDL_Quit();
-
 	return 0;
 }

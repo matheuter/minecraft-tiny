@@ -104,6 +104,12 @@
 		<Unit filename="F:/c++/minecraft/Block/Chunk.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Expression/Expression.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Expression/Expression.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>
@@ -141,6 +147,12 @@
 			<Option target="minecraft"/>
 		</Unit>
 		<Unit filename="F:/c++/minecraft/Texture/Texture.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Unity/Player.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Unity/Player.h">
 			<Option target="minecraft"/>
 		</Unit>
 		<Unit filename="F:/c++/minecraft/Unity/Unity.cpp">

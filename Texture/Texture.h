@@ -9,6 +9,4 @@ public:
 public:
 	Texture(const char* texture_path);
 };
-
-
 #endif //MINECRAFT_TEXTURE_H
