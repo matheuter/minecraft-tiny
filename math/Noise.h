@@ -4,12 +4,9 @@
 
 #ifndef MINECRAFT_NOISE_H
 #define MINECRAFT_NOISE_H
-
-
 class Noise
 {
 
 };
-
 
 #endif //MINECRAFT_NOISE_H

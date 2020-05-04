@@ -252,24 +252,10 @@ CMakeFiles/minecraft.dir/math/Noise.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/math/Noise.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\math\Noise.cpp -o CMakeFiles\minecraft.dir\math\Noise.cpp.s
 
-CMakeFiles/minecraft.dir/Unity/Player.cpp.obj: CMakeFiles/minecraft.dir/flags.make
-CMakeFiles/minecraft.dir/Unity/Player.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
-CMakeFiles/minecraft.dir/Unity/Player.cpp.obj: ../Unity/Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/minecraft.dir/Unity/Player.cpp.obj"
-	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Unity\Player.cpp.obj -c F:\c++\minecraft\Unity\Player.cpp
-
-CMakeFiles/minecraft.dir/Unity/Player.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Unity/Player.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Unity\Player.cpp > CMakeFiles\minecraft.dir\Unity\Player.cpp.i
-
-CMakeFiles/minecraft.dir/Unity/Player.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Unity/Player.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Unity\Player.cpp -o CMakeFiles\minecraft.dir\Unity\Player.cpp.s
-
 CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj: CMakeFiles/minecraft.dir/flags.make
 CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
 CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj: ../Expression/Expression.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj"
 	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Expression\Expression.cpp.obj -c F:\c++\minecraft\Expression\Expression.cpp
 
 CMakeFiles/minecraft.dir/Expression/Expression.cpp.i: cmake_force
@@ -279,6 +265,48 @@ CMakeFiles/minecraft.dir/Expression/Expression.cpp.i: cmake_force
 CMakeFiles/minecraft.dir/Expression/Expression.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Expression/Expression.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Expression\Expression.cpp -o CMakeFiles\minecraft.dir\Expression\Expression.cpp.s
+
+CMakeFiles/minecraft.dir/World/ActionType.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/World/ActionType.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/World/ActionType.cpp.obj: ../World/ActionType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/minecraft.dir/World/ActionType.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\World\ActionType.cpp.obj -c F:\c++\minecraft\World\ActionType.cpp
+
+CMakeFiles/minecraft.dir/World/ActionType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/World/ActionType.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\World\ActionType.cpp > CMakeFiles\minecraft.dir\World\ActionType.cpp.i
+
+CMakeFiles/minecraft.dir/World/ActionType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/World/ActionType.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\World\ActionType.cpp -o CMakeFiles\minecraft.dir\World\ActionType.cpp.s
+
+CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj: ../Physical/Collision/Collision.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Physical\Collision\Collision.cpp.obj -c F:\c++\minecraft\Physical\Collision\Collision.cpp
+
+CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Physical\Collision\Collision.cpp > CMakeFiles\minecraft.dir\Physical\Collision\Collision.cpp.i
+
+CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Physical\Collision\Collision.cpp -o CMakeFiles\minecraft.dir\Physical\Collision\Collision.cpp.s
+
+CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj: CMakeFiles/minecraft.dir/flags.make
+CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj: CMakeFiles/minecraft.dir/includes_CXX.rsp
+CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj: ../Physical/Math/Matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\minecraft.dir\Physical\Math\Matrix.cpp.obj -c F:\c++\minecraft\Physical\Math\Matrix.cpp
+
+CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\c++\minecraft\Physical\Math\Matrix.cpp > CMakeFiles\minecraft.dir\Physical\Math\Matrix.cpp.i
+
+CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\c++\minecraft\Physical\Math\Matrix.cpp -o CMakeFiles\minecraft.dir\Physical\Math\Matrix.cpp.s
 
 # Object files for target minecraft
 minecraft_OBJECTS = \
@@ -296,8 +324,10 @@ minecraft_OBJECTS = \
 "CMakeFiles/minecraft.dir/World/Player.cpp.obj" \
 "CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj" \
 "CMakeFiles/minecraft.dir/math/Noise.cpp.obj" \
-"CMakeFiles/minecraft.dir/Unity/Player.cpp.obj" \
-"CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj"
+"CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj" \
+"CMakeFiles/minecraft.dir/World/ActionType.cpp.obj" \
+"CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj" \
+"CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj"
 
 # External object files for target minecraft
 minecraft_EXTERNAL_OBJECTS =
@@ -316,13 +346,15 @@ minecraft.exe: CMakeFiles/minecraft.dir/Unity/Unity.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/World/Player.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/Block/BlockType.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/math/Noise.cpp.obj
-minecraft.exe: CMakeFiles/minecraft.dir/Unity/Player.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/Expression/Expression.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/World/ActionType.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/Physical/Collision/Collision.cpp.obj
+minecraft.exe: CMakeFiles/minecraft.dir/Physical/Math/Matrix.cpp.obj
 minecraft.exe: CMakeFiles/minecraft.dir/build.make
 minecraft.exe: CMakeFiles/minecraft.dir/linklibs.rsp
 minecraft.exe: CMakeFiles/minecraft.dir/objects1.rsp
 minecraft.exe: CMakeFiles/minecraft.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable minecraft.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\c++\minecraft\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable minecraft.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\minecraft.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

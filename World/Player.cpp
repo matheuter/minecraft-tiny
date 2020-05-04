@@ -3,3 +3,23 @@
 //
 
 #include "Player.h"
+
+void Player::drawPlayer()
+{
+
+}
+
+void Player::run(Player::Direction &dir)
+{
+
+}
+
+void Player::walk(Player::Direction &dir)
+{
+
+}
+
+void Player::jump()
+{
+
+}

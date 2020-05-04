@@ -10,6 +10,7 @@
 #include "../Shader/shader.h"
 #include "Attribute.h"
 
+using namespace minecraft;
 class Mesh
 {
 public:

@@ -110,6 +110,9 @@
 		<Unit filename="F:/c++/minecraft/Expression/Expression.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/GL/gl_error_imp.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/GL/gl_imp.h">
 			<Option target="minecraft"/>
 		</Unit>
@@ -131,6 +134,18 @@
 		<Unit filename="F:/c++/minecraft/Model/Model.h">
 			<Option target="minecraft"/>
 		</Unit>
+		<Unit filename="F:/c++/minecraft/Physical/Collision/Collision.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Physical/Collision/Collision.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Physical/Math/Matrix.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/Physical/Math/Matrix.h">
+			<Option target="minecraft"/>
+		</Unit>
 		<Unit filename="F:/c++/minecraft/Shader/Shader.cpp">
 			<Option target="minecraft"/>
 		</Unit>
@@ -149,16 +164,16 @@
 		<Unit filename="F:/c++/minecraft/Texture/Texture.h">
 			<Option target="minecraft"/>
 		</Unit>
-		<Unit filename="F:/c++/minecraft/Unity/Player.cpp">
-			<Option target="minecraft"/>
-		</Unit>
-		<Unit filename="F:/c++/minecraft/Unity/Player.h">
-			<Option target="minecraft"/>
-		</Unit>
 		<Unit filename="F:/c++/minecraft/Unity/Unity.cpp">
 			<Option target="minecraft"/>
 		</Unit>
 		<Unit filename="F:/c++/minecraft/Unity/Unity.h">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/World/ActionType.cpp">
+			<Option target="minecraft"/>
+		</Unit>
+		<Unit filename="F:/c++/minecraft/World/ActionType.h">
 			<Option target="minecraft"/>
 		</Unit>
 		<Unit filename="F:/c++/minecraft/World/Player.cpp">
