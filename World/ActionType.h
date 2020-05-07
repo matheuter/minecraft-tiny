@@ -16,7 +16,7 @@ struct ActionType
 		AC_LEFT,
 		AC_RIGHT
 	};
-}
+};
 
 
 #endif //MINECRAFT_ACTIONTYPE_H

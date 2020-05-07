@@ -5,7 +5,11 @@
 #ifndef MINECRAFT_BLOCKTYPE_H
 #define MINECRAFT_BLOCKTYPE_H
 
-class BlockType
+namespace BlockType
 {
+	enum BK_TYPE
+	{
+
+	};
 };
 #endif //MINECRAFT_BLOCKTYPE_H

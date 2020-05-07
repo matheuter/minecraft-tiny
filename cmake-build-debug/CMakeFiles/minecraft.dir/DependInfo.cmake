@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/c++/minecraft/Shader/Shader.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Shader/Shader.cpp.obj"
   "F:/c++/minecraft/Texture/SkyBox.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj"
   "F:/c++/minecraft/Texture/Texture.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj"
+  "F:/c++/minecraft/Window.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/Window.cpp.obj"
   "F:/c++/minecraft/World/ActionType.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/ActionType.cpp.obj"
   "F:/c++/minecraft/World/Player.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/Player.cpp.obj"
   "F:/c++/minecraft/World/World.cpp" "F:/c++/minecraft/cmake-build-debug/CMakeFiles/minecraft.dir/World/World.cpp.obj"

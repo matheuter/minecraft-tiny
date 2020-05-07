@@ -12,6 +12,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/minecraft.dir/Texture/SkyBox.cpp.obj"
   "CMakeFiles/minecraft.dir/Texture/Texture.cpp.obj"
   "CMakeFiles/minecraft.dir/Unity/Unity.cpp.obj"
+  "CMakeFiles/minecraft.dir/Window.cpp.obj"
   "CMakeFiles/minecraft.dir/World/ActionType.cpp.obj"
   "CMakeFiles/minecraft.dir/World/Player.cpp.obj"
   "CMakeFiles/minecraft.dir/World/World.cpp.obj"

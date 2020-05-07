@@ -18,6 +18,7 @@ link_libraries(
 
 #-glm-
 include_directories(${GLM_INC_DIR})
+
 #-glew-
 include_directories(${GLEW_INC_DIR})
 link_directories(${GLEW_LIB_DIR})
@@ -55,10 +56,16 @@ add_executable(minecraft
         math/Noise.h
         Expression/Expression.cpp
         Expression/Expression.h
-        GL/gl_error_imp.h World/ActionType.cpp World/ActionType.h Physical/Collision/Collision.cpp Physical/Collision/Collision.h Physical/Math/Matrix.cpp Physical/Math/Matrix.h)
+        GL/gl_error_imp.h
+        World/ActionType.cpp
+        World/ActionType.h
+        Physical/Collision/Collision.cpp
+        Physical/Collision/Collision.h
+        Physical/Math/Matrix.cpp
+        Physical/Math/Matrix.h
+        Window.cpp
+        Window.h)
 target_link_libraries(minecraft
-        opengl32
-        glew32
         SDL2
         SDL2main
         SDL2_image

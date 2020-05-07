@@ -473,6 +473,33 @@ Unity/Unity.cpp.s:
 	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Unity/Unity.cpp.s
 .PHONY : Unity/Unity.cpp.s
 
+Window.obj: Window.cpp.obj
+
+.PHONY : Window.obj
+
+# target to build an object file
+Window.cpp.obj:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Window.cpp.obj
+.PHONY : Window.cpp.obj
+
+Window.i: Window.cpp.i
+
+.PHONY : Window.i
+
+# target to preprocess a source file
+Window.cpp.i:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Window.cpp.i
+.PHONY : Window.cpp.i
+
+Window.s: Window.cpp.s
+
+.PHONY : Window.s
+
+# target to generate assembly for a file
+Window.cpp.s:
+	$(MAKE) -f CMakeFiles\minecraft.dir\build.make CMakeFiles/minecraft.dir/Window.cpp.s
+.PHONY : Window.cpp.s
+
 World/ActionType.obj: World/ActionType.cpp.obj
 
 .PHONY : World/ActionType.obj
@@ -656,6 +683,9 @@ help:
 	@echo ... Unity/Unity.obj
 	@echo ... Unity/Unity.i
 	@echo ... Unity/Unity.s
+	@echo ... Window.obj
+	@echo ... Window.i
+	@echo ... Window.s
 	@echo ... World/ActionType.obj
 	@echo ... World/ActionType.i
 	@echo ... World/ActionType.s
