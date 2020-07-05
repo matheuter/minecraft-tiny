@@ -3,3 +3,17 @@
 //
 
 #include "Window.h"
+
+void Window::application()
+{
+
+}
+
+void Window::createWindow()
+{
+
+}
+
+void Window::destoryWindow() {
+
+}

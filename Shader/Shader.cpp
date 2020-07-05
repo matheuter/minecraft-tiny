@@ -1,6 +1,3 @@
-//
-// Created by bainsky on 2020/4/20.
-//
 #include "Shader.h"
 void Shader::setShader(const char* vertexPath, const char* fragmentPath, const char* geometryPath)
 {
@@ -171,4 +168,3 @@ void Shader::checkCompileErrors(GLuint Shader, std::string type)
 		}
 	}
 }
-#include "Shader.h"

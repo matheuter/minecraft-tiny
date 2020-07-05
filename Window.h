@@ -16,11 +16,8 @@ class Window
 {
 private:
 	Rect m_rect;
-
 	void application();
 	void destoryWindow();
-
 	void createWindow();
-	void eventLoop(SDL_Event* event);
 }; 
 #endif //MINECRAFT_WINDOW_H
